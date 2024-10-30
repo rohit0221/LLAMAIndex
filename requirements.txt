@@ -14,3 +14,4 @@ llama-index-postprocessor-flag-embedding-reranker
 llama-index-postprocessor-sbert-rerank
 git+https://github.com/FlagOpen/FlagEmbedding.git
 llama-index-agent-openai-legacy
+llama-index-graph-stores-neo4j
