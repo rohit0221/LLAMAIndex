@@ -16,4 +16,5 @@ git+https://github.com/FlagOpen/FlagEmbedding.git
 llama-index-agent-openai-legacy
 llama-index-graph-stores-neo4j
 llama-index-experimental
-camelot
+llama-index-vector-stores-chroma
+llama-index-vector-stores-weaviate
