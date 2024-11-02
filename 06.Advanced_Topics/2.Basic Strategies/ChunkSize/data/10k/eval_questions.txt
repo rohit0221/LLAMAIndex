@@ -1,0 +1,70 @@
+What conditions must be met for a Guarantor to be considered a Grantor under the Security Documents according to the provided text?
+In the context of the document, what actions can the Administrative Agent take regarding the release of Collateral as requested by the Borrower?
+What is the significance of the term "Immaterial Subsidiary" in relation to the Guarantor's status?
+Describe the implications of the "Bail-In" provisions mentioned in Section 9.18 for Affected Financial Institutions.
+What are the potential outcomes for liabilities of an Affected Financial Institution under the write-down and conversion powers of the applicable Resolution Authority?
+How does the document define "QFC Credit Support," and what is its relevance to Swap Agreements?
+What must the Borrower provide to the Administrative Agent to authorize actions related to the release of Collateral?
+Explain the role of the Administrative Agent in executing agreements related to Collateral as per the document.
+What acknowledgment do the parties make regarding the effects of any Bail-In Action on liabilities arising under the Loan Documents?
+How does the document address the resolution power of the Federal Deposit Insurance Corporation concerning Supported QFCs?
+What is the significance of the Dodd-Frank Wall Street Reform and Consumer Protection Act in relation to Supported QFCs and QFC Credit Support?
+Define the term "Covered Entity" as used in the context of the document. What are the three categories that fall under this definition?
+Explain the implications of a Covered Party becoming subject to a proceeding under a U.S. Special Resolution Regime regarding the transfer of Supported QFCs.
+What does the term "Default Right" refer to, and how is it defined in the context of the document?
+Describe the relationship between a Covered Party and its BHC Act Affiliates in the context of Default Rights under the Loan Documents.
+How does the document ensure that rights and remedies concerning a Defaulting Lender do not affect the rights of a Covered Party with respect to Supported QFCs?
+What are the potential effects on Default Rights if a Covered Party becomes subject to a U.S. Special Resolution Regime?
+Identify and explain the meaning of "QFC" as defined in the document.
+Discuss the legal implications of the document stating that the provisions apply notwithstanding the laws of the State of New York or any other state of the United States.
+Why might the document intentionally leave the remainder of the page blank and omit signature pages? What could be the purpose of this formatting choice?
+What is the file name of the document referenced in the context information?
+How many subsidiaries of the registrant are listed in Exhibit 21.1?
+Name three subsidiaries of the registrant mentioned in the context information.
+What is the file size of the document "uber_2021.pdf"?
+On what date was the document "uber_2021.pdf" created?
+Which subsidiary listed is associated with the delivery service?
+What is the file path where the document "uber_2021.pdf" is located?
+Identify the subsidiary that is a holding company based on the context information.
+What is the last modified date of the document "uber_2021.pdf"?
+Which subsidiary in the list is specifically identified as an insurance company?
+What is the file name of the document referenced in the context information?
+On what date was the document created?
+Who is the independent registered public accounting firm that provided consent for incorporation by reference in the Registration Statements?
+What is the purpose of the consent provided by PricewaterhouseCoopers LLP in the document?
+How many Registration Statements on Form S-8 are mentioned in the consent?
+What is the significance of the report dated February 24, 2022, as stated in the document?
+In which city is PricewaterhouseCoopers LLP located, according to the context information?
+What type of document is "uber_2021.pdf"?
+What is the file size of the document mentioned in the context information?
+What does the abbreviation "S-3" refer to in the context of the Registration Statements?
+Who is the Principal Executive Officer of Uber Technologies, Inc. as stated in the certification document?
+What is the purpose of the certification provided by Dara Khosrowshahi in the document?
+According to the certification, what does Dara Khosrowshahi confirm about the Annual Report on Form 10-K?
+What are the responsibilities of the registrant’s certifying officer regarding disclosure controls and procedures?
+What date was the certification signed by Dara Khosrowshahi?
+What specific internal controls does the certification mention that the registrant is responsible for maintaining?
+In the certification, what must be disclosed regarding any changes in internal control over financial reporting?
+What does the certification state about the financial statements included in the report?
+What are the two types of deficiencies that must be disclosed to the registrant’s auditors and audit committee according to the certification?
+What is the significance of the Sarbanes-Oxley Act of 2002 in relation to the certification provided in the document?
+Who is the principal financial officer that certified the Annual Report on Form 10-K of Uber Technologies, Inc.?
+What is the purpose of the certification made by Nelson Chai in the document?
+According to the certification, what must the report not contain regarding material facts?
+What responsibilities does Nelson Chai mention concerning the establishment and maintenance of disclosure controls and procedures?
+What does Nelson Chai state about the financial statements included in the report?
+What date was the certification signed by Nelson Chai?
+What are the key components that Nelson Chai evaluated regarding the effectiveness of the registrant’s disclosure controls and procedures?
+What specific changes in internal control over financial reporting must be disclosed in the report?
+What types of deficiencies and weaknesses must be reported to the registrant’s auditors and audit committee?
+What is the significance of the Sarbanes-Oxley Act of 2002 in relation to the certification provided by Nelson Chai?
+Who is the Chief Executive Officer of Uber Technologies Inc. as mentioned in the document?
+What legal act is referenced in the certifications provided by the CEO and CFO of Uber Technologies Inc.?
+On what date was the Annual Report on Form 10-K for Uber Technologies Inc. certified by the CEO and CFO?
+What fiscal year does the Annual Report on Form 10-K pertain to?
+According to the certifications, what does the information contained in the Annual Report fairly present?
+Who is the Chief Financial Officer of Uber Technologies Inc. as stated in the document?
+What section of the Securities Exchange Act of 1934 is referenced in the certifications by the CEO and CFO?
+What is the significance of the certifications made by the CEO and CFO under 18 U.S.C. Section 1350?
+How does the document describe the compliance of the Annual Report with the Securities Exchange Act?
+What is the full name of the Chief Executive Officer as signed in the certification?
