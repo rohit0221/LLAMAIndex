@@ -1,0 +1,3 @@
+Implemented already at:
+
+Github\LlamaIndex\06.Advanced_Topics\3.Agentic strategies\2.Query Transformations\1.HyDE Query Transform

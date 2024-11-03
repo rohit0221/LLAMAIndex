@@ -1,0 +1,4 @@
+Implemented at following path:
+
+
+Github\LlamaIndex\06.Advanced_Topics\1.Building Performant RAG Applications for Production\1. Decoupling chunks used for retrieval vs. chunks used for synthesis\1.Recursive Retriever + Query Engine Demo
