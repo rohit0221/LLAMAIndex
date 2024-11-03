@@ -1,0 +1,3 @@
+Implementation available here:
+
+\Github\LlamaIndex\06.Advanced_Topics\1.Building Performant RAG Applications for Production\1. Decoupling chunks used for retrieval vs. chunks used for synthesis\3.Metadata Replacement Postprocessor\3.Metadata_Replacement_Postprocessor.ipynb
